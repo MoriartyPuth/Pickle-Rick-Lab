@@ -3,6 +3,23 @@
 **Classification:** Professional Security Audit    
 **Tools Used:** `Bubble-Scanner` & `Bubble-Siphon`
 
+## 📋 Lab Objectives (Task 1)
+* [ ] **Task 1: Help Rick get his ingredients**
+    * *Objective:* Exploit the machine and find the 3 ingredients.
+    
+    | Question | Discovery Method | Answer |
+    | :--- | :--- | :--- |
+    | **What is the first ingredient Rick needs?** | `Bubble-Scanner` (Web-Root) | `mr. meeseek hair` |
+    | **What is the second ingredient in Rick's potion?** | `Bubble-Siphon` (User-Home) | `1 jerry tear` |
+    | **What is the last and final ingredient?** | `Bubble-Siphon` (Root-Audit) | `fleeb juice` |
+
+---
+
+## 🛠️ Deployment Information
+* **Target IP:** `10.10.x.x`
+* **Access Level:** `www-data` (Initial) -> `root` (Final)
+* **Exploit Path:** Web Discovery -> Command Injection -> Sudo Misconfig
+
 ---
 
 ## 📋 Executive Summary
