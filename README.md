@@ -1,7 +1,7 @@
 # 🫧 Lab Report: Operation Pickle Rick
 **Target:** `10.10.x.x` (TryHackMe - Pickle Rick)  
 **Classification:** Professional Security Audit    
-**Tools Used:** `Bubble-Scanner` & `Bubble-Siphon`
+**Tools Used:** [Bubble-Scanner](https://github.com/MoriartyPuth/bubble-scanner) & [Bubble-Siphon](https://github.com/MoriartyPuth/bubble-siphon)
 
 ## 📋 Lab Objectives (Task 1)
 * [ ] **Task 1: Help Rick get his ingredients**
@@ -28,7 +28,7 @@ This report documents the successful end-to-end compromise of a Rick and Morty-t
 ---
 
 ## 🛰️ Phase 1: External Discovery
-**Tool:** `Bubble-Scanner`
+**Tool:** [Bubble-Scanner](https://github.com/MoriartyPuth/bubble-scanner)
 
 The operation began with an automated discovery phase to map the attack surface and identify leaked credentials.
 
@@ -60,7 +60,7 @@ Upon logging into the portal, a **Command Panel** was discovered, providing Remo
 ---
 
 ## 🌪️ Phase 3: Post-Exploitation
-**Tool:** `Bubble-Siphon`
+**Tool:** [Bubble-Siphon](https://github.com/MoriartyPuth/bubble-siphon)
 
 After establishing a reverse shell, `Bubble-Siphon` was deployed to automate internal looting and privilege auditing.
 
