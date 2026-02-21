@@ -1,5 +1,5 @@
 # 🫧 Lab Report: Operation Pickle Rick
-**Target:** `10.10.x.x` (TryHackMe - Pickle Rick)  
+**Target:** `10.10.x.x` [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick)
 **Classification:** Professional Security Audit    
 **Tools Used:** [Bubble-Scanner](https://github.com/MoriartyPuth/bubble-scanner) & [Bubble-Siphon](https://github.com/MoriartyPuth/bubble-siphon)
 
