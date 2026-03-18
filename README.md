@@ -1,4 +1,6 @@
 # 🫧 Lab Report: Operation Pickle Rick
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/88e514de-e53b-469b-8309-d2d0c2b5342b" />
+
 **Target:** `10.10.x.x` [TryHackMe - Pickle Rick](https://tryhackme.com/room/picklerick)
 
 **Classification:** Professional Security Audit    
